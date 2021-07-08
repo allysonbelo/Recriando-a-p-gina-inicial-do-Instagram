@@ -15,7 +15,7 @@ body{
     padding: 0;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to bottom, red , yellow);
+    /*background-image: linear-gradient(to bottom, red , yellow);*/
 }
 
 .instagram-wrapper{
